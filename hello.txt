@@ -4,4 +4,12 @@ hi i've made a change
 
 adding new code from my new branch
 
+
 hello 
+
+
+Hello my name is Sara :)
+
+Hello my name is Katie, this is me making a change from my branch :)
+
+
