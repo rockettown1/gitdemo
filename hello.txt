@@ -1,5 +1,3 @@
-hello my name is dan
-
-hi i've made a change
+hello Dan, I'm Matt and I have made changes to your file.
 
 adding new code from my new branch
