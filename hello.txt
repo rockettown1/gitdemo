@@ -1,3 +1,9 @@
 hello Dan, I'm Matt and I have made changes to your file.
 
 adding new code from my new branch
+
+
+Hello my name is Sara :)
+
+Hello my name is Katie, this is me making a change from my branch :)
+
